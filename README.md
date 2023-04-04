@@ -2,7 +2,8 @@
 - 👀 I’m interested to be Fullstack dev, Back-end dev, or other
 - 🌱 I’m currently learning KU SRC
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me FB: https://www.facebook.com/profile.php?id=100088913177289
+- 📫 How to reach me 
+                      FB: https://www.facebook.com/profile.php?id=100088913177289
 -                     Line: peerapat14789
 -                     IG: pp_jacky19
 
