@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jack or Jacky up to you guy to call me
 - 👀 I’m interested to be Fullstack dev, Back-end dev, or other
-- 🌱 I’m currently learning KU SRC
+- 🌱 I’m currently work in C2S Junior Game Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
                       FB: https://www.facebook.com/profile.php?id=100088913177289
